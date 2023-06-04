@@ -1,6 +1,6 @@
  _👋 Hi, I’m @OKball 👋 <br>
 _On my way to become a software developer 🚀 <br>
-_Curently working on HTML, CSS, Python 🐍 <br>
+_ Python 🐍 <br>
 _Will appreciate any advice on what to do or what not to do :) <br>
 _message me at arekomarekpl@gmail.com 💻 <br>
 <!---
